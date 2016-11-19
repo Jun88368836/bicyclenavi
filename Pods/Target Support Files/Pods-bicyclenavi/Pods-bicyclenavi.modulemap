@@ -1,0 +1,6 @@
+framework module Pods_bicyclenavi {
+  umbrella header "Pods-bicyclenavi-umbrella.h"
+
+  export *
+  module * { export * }
+}
